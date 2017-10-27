@@ -1,2 +1,2 @@
-# avet-g2
-g2 plugin for avet
+# avet-f2
+f2 plugin for avet
